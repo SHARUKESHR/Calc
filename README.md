@@ -165,8 +165,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<calc 1.png>)
-![Alt text](<calc 2.png>)
+![calc 1](https://github.com/SHARUKESHR/Calc/assets/144870484/14ffe370-6fb8-4168-8999-26666bc27d86)
+![calc 2](https://github.com/SHARUKESHR/Calc/assets/144870484/29b820c1-db9e-41e9-9679-00dd8d12ca35)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
